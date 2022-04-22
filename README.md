@@ -1,1 +1,2 @@
-# Plant-Health-detector
+# Plant-Pathology-detector
+
