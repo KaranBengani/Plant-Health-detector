@@ -16,10 +16,11 @@ A Sequential model is appropriate for a plain stack of layers where each lay
 
 ## Approach
 We decided to use a deep learning model with neural networks to train the AI with thousands of images from a dataset. There are 4 main steps involved in this process: 
-> Image augmentation
-> Image acquisition 
-> Image pre-processing
-> Classification 
+> 
+- Image augmentation
+- Image acquisition 
+- Image pre-processing
+- Classification 
 
 ## Technology used:
 > Python
