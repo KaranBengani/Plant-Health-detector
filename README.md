@@ -28,6 +28,8 @@ We decided to use a deep learning model with neural networks to train the AI wit
 > Numpy
 > Keras
 
-## Dataset  (https://www.kaggle.com/competitions/plant-pathology-2020-fgvc7/overview)
+## Dataset  
+> (https://www.kaggle.com/competitions/plant-pathology-2020-fgvc7/overview)
 
-## PowerPoint (https://docs.google.com/presentation/d/1ha0oWEk9F32dldHa0lDRyvztk8VweeoYAEsh1s7hB60/edit?usp=sharing)
+## PowerPoint 
+> (https://docs.google.com/presentation/d/1ha0oWEk9F32dldHa0lDRyvztk8VweeoYAEsh1s7hB60/edit?usp=sharing)
