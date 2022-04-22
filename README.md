@@ -23,11 +23,12 @@ We decided to use a deep learning model with neural networks to train the AI wit
 - Classification 
 
 ## Technology used:
-> Python
-> TensorFlow
-> Streamlit
-> Numpy
-> Keras
+>
+- Python
+- TensorFlow
+- Streamlit
+- Numpy
+- Keras
 
 ## Dataset  
 > (https://www.kaggle.com/competitions/plant-pathology-2020-fgvc7/overview)
