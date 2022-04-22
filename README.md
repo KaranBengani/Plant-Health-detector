@@ -9,3 +9,25 @@ Neural networks provide a mapping between an input—such as an image of a disea
 The nodes in a neural network are mathematical functions that take numerical inputs from the incoming edges, and provide a numerical output as an outgoing edge. 
 Deep neural networks are simply mapping the input layer to the output layer over a series of stacked layers of nodes. 
 
+## Model Used - Sequential Model
+A Sequential model is appropriate for a plain stack of layers where each layer has exactly one input tensor and one output tensor. 
+
+![image](https://miro.medium.com/max/874/1*eJ36Jpf-DE9q5nKk67xT0Q.jpeg)
+
+## Approach
+We decided to use a deep learning model with neural networks to train the AI with thousands of images from a dataset. There are 4 main steps involved in this process: 
+> Image augmentation
+> Image acquisition 
+> Image pre-processing
+> Classification 
+
+## Technology used:
+> Python
+> TensorFlow
+> Streamlit
+> Numpy
+> Keras
+
+## Dataset  (https://www.kaggle.com/competitions/plant-pathology-2020-fgvc7/overview)
+
+## PowerPoint (https://docs.google.com/presentation/d/1ha0oWEk9F32dldHa0lDRyvztk8VweeoYAEsh1s7hB60/edit?usp=sharing)
